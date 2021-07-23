@@ -11,7 +11,7 @@
 .OUTPUTS
   <Outputs if any, otherwise state None - example: Log file stored in C:\Windows\Temp\<name>.log>
 .NOTES
-  Version:        1.0
+  Version:        0.0.1
   Author:         Shannon Barrett
   Creation Date:  11/25/2020
   Purpose/Change: Initial script development
